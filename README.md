@@ -1,2 +1,2 @@
 # Wordzardy
-Wordzardy-Repo
+Wordzardry-Repo
